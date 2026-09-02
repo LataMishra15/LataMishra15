@@ -27,7 +27,7 @@
 
 ## 👤 About Me
 
-I am a Artificial Intelligence student at **Delhi Skill and Entrepreneurship University** who enjoys building systems at the intersection of **AI ML, and data engineering**.
+I am a B.Tech Artificial Intelligence student at **Delhi Skill and Entrepreneurship University** who enjoys building systems at the intersection of **AI ML, and data engineering**.
 
 
 ## 🌐 Socials:
