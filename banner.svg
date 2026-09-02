@@ -48,7 +48,7 @@
       <text x="24" y="28" class="sans cyan" font-size="16" font-weight="700">AI ML Enthusiast</text>
 
       <rect x="250" width="260" height="44" rx="22" fill="rgba(167, 139, 250, 0.12)" stroke="rgba(196, 181, 253, 0.35)"/>
-      <text x="274" y="28" class="sans violet" font-size="16" font-weight="700">Full-Stack Develope</text>
+      <text x="274" y="28" class="sans violet" font-size="16" font-weight="700">Full-Stack Developer</text>
 
       <rect x="530" width="275" height="44" rx="22" fill="rgba(244, 114, 182, 0.12)" stroke="rgba(249, 168, 212, 0.35)"/>
       <text x="554" y="28" class="sans pink" font-size="16" font-weight="700">Hackathon Enthusiast</text>
