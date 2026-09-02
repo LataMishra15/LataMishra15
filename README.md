@@ -1,3 +1,8 @@
+# 💫 Hi 👋, I'm Lata 
+**BTech AI Student | AI & ML Enthusiast | Full-Stack Developer | Hackathon Enthusiast**
+
+Email Me 👉 ✉️ **latamishra15aug@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/latamishra_15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lata-mishra-225405325) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:latamishra15aug@gmail.com) 
@@ -14,5 +19,21 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=LataMishra15&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🔥 GitHub Contribution Chart
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Purvijain1234&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
