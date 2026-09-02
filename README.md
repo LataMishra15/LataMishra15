@@ -1,7 +1,31 @@
-# 💫 Hi 👋, I'm Lata 
-**BTech AI Student | AI & ML Enthusiast | Full-Stack Developer | Hackathon Enthusiast**
+<h1 align="center">Hi, I'm Lata</h1>
 
-Email Me 👉 ✉️ **latamishra15aug@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="center">
+  <b>BTech AI Student | AI & ML Enthusiast | Full-Stack Developer | Hackathon Enthusiast</b>
+</p>
+
+<p align="center">
+  
+  <a href="inkedin.com/in/lata-mishra-225405325/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sim%20Sze%20Yu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="mailto:latamishra15aug@gmail.com">
+    <img src="https://img.shields.io/badge/Email-szeyusim%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LataMishra15">
+    <img src="https://img.shields.io/badge/GitHub-szeyu-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  
+  <a href="https://www.instagram.com/latamishra_15/">
+    <img src="https://img.shields.io/badge/Instagram-szeyusim-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  
+</p>
+
+---
 
 
 ## 🌐 Socials:
