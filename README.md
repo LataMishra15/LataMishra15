@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Lata Mishra</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=42&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=AI+ML+Developer;Full+Stack+Developer;Tech+Enthusiast;Learner;Problem+Solver"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=38&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=AI+ML+Developer;Full+Stack+Developer;Tech+Enthusiast;Learner;Problem+Solver"/>
 
 
 ## 🌐 Socials:
