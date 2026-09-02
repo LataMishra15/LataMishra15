@@ -1,9 +1,6 @@
-<h1 align="center">Hi, I'm Lata</h1>
-
 <p align="center">
-  <b>BTech AI Student | AI & ML Enthusiast | Full-Stack Developer | Hackathon Enthusiast</b>
+  <img src="banner.svg" alt="Lata Mishra GitHub Banner" width="100%">
 </p>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/latamishra_15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lata-mishra-225405325) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:latamishra15aug@gmail.com) 
