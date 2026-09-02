@@ -30,9 +30,6 @@
 I am a B.Tech Artificial Intelligence student at **Delhi Skill and Entrepreneurship University** who enjoys building systems at the intersection of **AI ML, and data engineering**.
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:latamishra15aug@gmail.com) 
-
 
 
 # 💻 Tech Stack:
