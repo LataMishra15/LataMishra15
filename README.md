@@ -23,10 +23,6 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:latamishra15aug@gmail.com">
-<img src=https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/> 
-</a>
-
 </div>
 
 ## 👤 About Me
