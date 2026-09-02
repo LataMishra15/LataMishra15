@@ -41,11 +41,11 @@ I am a B.Tech Artificial Intelligence student at **Delhi Skill and Entrepreneurs
 
 <img src="https://github-readme-stats.shion.dev/api?username=LataMishra15&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" />
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=LataMishra15&theme=midnight-purple&hide_border=true" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LataMishra15&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
