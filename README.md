@@ -37,9 +37,9 @@ I am a B.Tech Artificial Intelligence student at **Delhi Skill and Entrepreneurs
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=LataMishra15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=LataMishra15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=LataMishra15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=LataMishra15&theme=midnight-purple_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=LataMishra15&theme=midnight-purple_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=LataMishra15&theme=midnight-purple_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
