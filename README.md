@@ -2,6 +2,9 @@
   <img src="banner.svg" alt="Lata Mishra GitHub Banner" width="100%">
 </p>
 
+<h1 align="center">Lata Mishra</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=42&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=AI+ML+Developer;Full+Stack+Developer;Tech+Enthusiast;Learner;Problem+Solver"/>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/latamishra_15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lata-mishra-225405325) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:latamishra15aug@gmail.com) 
